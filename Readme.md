@@ -11,7 +11,7 @@ Go Offline Documentation
 <dt>Description:</dt> <dd>A programmed version of the GO board game created in Java</dd>
 </dl>
 
-Go [here](http://en.wikipedia.org/wiki/Go_(game) for the wikipedia page. 
+Go [here](http://en.wikipedia.org/wiki/Go_(game)) for the wikipedia page. 
 
 Instructions
 ---
